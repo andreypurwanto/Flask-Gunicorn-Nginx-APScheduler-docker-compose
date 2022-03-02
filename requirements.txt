@@ -1,0 +1,11 @@
+flask
+gunicorn
+numpy
+datetime
+pytz
+scikit-learn==1.0.2
+uwsgi
+APScheduler==3.8.1
+Flask-APScheduler==1.12.3
+requests
+pyyaml
